@@ -10,6 +10,8 @@ nav:
   - Backend:
     - Architecture: backend/architecture.md
     - API Reference: backend/api_reference.md
+  - Hardware Manager:
+    - Summary: hw_manager/summary.md
   - About: about.md
 
 
