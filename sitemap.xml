@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://lccf-qhpc.github.io/lccfq-docs/</loc>
+         <lastmod>2025-05-16</lastmod>
+    </url>
+    <url>
+         <loc>https://lccf-qhpc.github.io/lccfq-docs/about/</loc>
+         <lastmod>2025-05-16</lastmod>
+    </url>
+    <url>
+         <loc>https://lccf-qhpc.github.io/lccfq-docs/backend/api_reference/</loc>
+         <lastmod>2025-05-16</lastmod>
+    </url>
+    <url>
+         <loc>https://lccf-qhpc.github.io/lccfq-docs/backend/architecture/</loc>
+         <lastmod>2025-05-16</lastmod>
+    </url>
+    <url>
+         <loc>https://lccf-qhpc.github.io/lccfq-docs/hw_manager/summary/</loc>
+         <lastmod>2025-05-16</lastmod>
+    </url>
+    <url>
+         <loc>https://lccf-qhpc.github.io/lccfq-docs/language/overview/</loc>
+         <lastmod>2025-05-16</lastmod>
+    </url>
+    <url>
+         <loc>https://lccf-qhpc.github.io/lccfq-docs/language/summary/</loc>
+         <lastmod>2025-05-16</lastmod>
+    </url>
+</urlset>
